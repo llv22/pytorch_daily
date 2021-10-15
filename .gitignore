@@ -131,3 +131,5 @@ dmypy.json
 # pytorch
 data/
 model.pth
+MNIST/
+lightning_logs/
