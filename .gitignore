@@ -133,3 +133,4 @@ data/
 model.pth
 MNIST/
 lightning_logs/
+.cache/
