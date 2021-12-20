@@ -134,3 +134,4 @@ model.pth
 MNIST/
 lightning_logs/
 2_model/causal/causal_model.png
+.cache/
