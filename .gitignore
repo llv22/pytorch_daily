@@ -137,3 +137,4 @@ lightning_logs/
 .cache/
 .data/
 2_model/GIN/PROTEINS/
+2_model/graphSAGE/Pubmed
